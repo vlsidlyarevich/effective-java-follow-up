@@ -7,6 +7,7 @@ This is just my interpretation of the author's ideas. Please read book first.
 - [Object creation/destruction](#src/main/java/com/github/vlsidlyarevich/effectivejava/followup/object_creation)
     * [Static factory method](#src/main/java/com/github/vlsidlyarevich/effectivejava/followup/object_creation/sfm/README.MD)
     * [Builder](#src/main/java/com/github/vlsidlyarevich/effectivejava/followup/object_creation/builder/README.MD)
+  
 
 ## Authors
 

@@ -1,8 +1,12 @@
-# effective-java-follow-up
-Tryout to remember interesting stuff from "Effective java 3rd edition" by [Joshua Bloch](https://twitter.com/joshbloch). 
+# Effective Java follow-up
+This is not a copyright, just my abstract of "Effective java 3rd edition"
+written by [Joshua Bloch](https://twitter.com/joshbloch).
+This is just my interpretation of the author's ideas. Please read book first.
 
 ## Navigation
-
+- [Object creation/destruction](#src/main/java/com/github/vlsidlyarevich/effectivejava/followup/object_creation)
+    * [Static factory method](#src/main/java/com/github/vlsidlyarevich/effectivejava/followup/object_creation/sfm/README.MD)
+    * [Builder](#src/main/java/com/github/vlsidlyarevich/effectivejava/followup/object_creation/builder/README.MD)
 
 ## Authors
 

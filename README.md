@@ -27,6 +27,11 @@ Please, read book first!=)
 - Avoid old object links
 - Avoid finalizers and cleaners
 
+### [Objects common methods](#src/main/java/com/github/vlsidlyarevich/effectivejava/followup/object_methods)
+
+* [Override equals properly](#src/main/java/com/github/vlsidlyarevich/effectivejava/followup/object_methods/equals/README.MD)
+* [Override hashcode properly](#src/main/java/com/github/vlsidlyarevich/effectivejava/followup/object_methods/hashcode/README.MD)
+
 ## Authors
 
 **Vladislav Sidlyarevich** - [Github profile](https://github.com/vlsidlyarevich)

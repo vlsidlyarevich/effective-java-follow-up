@@ -18,6 +18,6 @@ public class TerminatorResponse {
     }
 
     public static TerminatorResponse fromDomain(Terminator terminator) {
-        return new TerminatorResponse(terminator.getName(), terminator.getModel())
+        return new TerminatorResponse(terminator.getName(), terminator.getModel());
     }
 }

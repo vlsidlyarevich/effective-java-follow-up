@@ -15,11 +15,12 @@ import java.io.OutputStream;
 public class Main {
 
     public static void main(String[] args) throws IOException {
+        var path = Main.class.getResource("README.MD");
 
         // Old way
-        InputStream oldWayStream = new FileInputStream("main.java");
+        InputStream oldWayStream = new FileInputStream(path.getFile());
         try {
-            OutputStream oldWayOutputStream = new FileOutputStream("main1.java");
+            OutputStream oldWayOutputStream = new FileOutputStream("NEW_README.MD");
             try {
                 // some stuff
                 oldWayOutputStream.write(oldWayStream.readAllBytes());
@@ -33,8 +34,8 @@ public class Main {
 
 
         // New way
-        try (var input = new FileInputStream("main.java");
-             var output = new FileOutputStream("main1.java")) {
+        try (var input = new FileInputStream(path.getFile());
+             var output = new FileOutputStream("NEW_README_2.MD")) {
 
             output.write(input.readAllBytes());
         }

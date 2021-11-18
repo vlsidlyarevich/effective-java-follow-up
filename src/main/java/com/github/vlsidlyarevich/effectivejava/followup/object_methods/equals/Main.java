@@ -12,6 +12,6 @@ public class Main {
         Panzer pz4 = new Panzer("PzKpfw IV", 4, 0.75);
         Panzer pz4Late = new Panzer("PzKpfw IV Ausf D.", 4, 0.75);
 
-        assert pz4.equals(pz4Late);
+        System.out.println(pz4.equals(pz4Late));
     }
 }

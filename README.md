@@ -29,8 +29,10 @@ Please, read book first!=)
 
 ### [Objects common methods](#src/main/java/com/github/vlsidlyarevich/effectivejava/followup/object_methods)
 
-* [Override equals properly](#src/main/java/com/github/vlsidlyarevich/effectivejava/followup/object_methods/equals/README.MD)
-* [Override hashcode properly](#src/main/java/com/github/vlsidlyarevich/effectivejava/followup/object_methods/hashcode/README.MD)
+* [Override equals() properly](#src/main/java/com/github/vlsidlyarevich/effectivejava/followup/object_methods/equals/README.MD)
+* [Override hashcode() properly](#src/main/java/com/github/vlsidlyarevich/effectivejava/followup/object_methods/hashcode/README.MD)
+* [Always override toString()](#src/main/java/com/github/vlsidlyarevich/effectivejava/followup/object_methods/to_string/README.MD)
+* [Be careful with clone()](#src/main/java/com/github/vlsidlyarevich/effectivejava/followup/object_methods/clone/README.MD)
 
 ## Authors
 

@@ -33,6 +33,7 @@ Please, read book first!=)
 * [Override hashcode() properly](#src/main/java/com/github/vlsidlyarevich/effectivejava/followup/object_methods/hashcode/README.MD)
 * [Always override toString()](#src/main/java/com/github/vlsidlyarevich/effectivejava/followup/object_methods/to_string/README.MD)
 * [Be careful with clone()](#src/main/java/com/github/vlsidlyarevich/effectivejava/followup/object_methods/clone/README.MD)
+* [Use Comparable](#src/main/java/com/github/vlsidlyarevich/effectivejava/followup/object_methods/comparable/README.MD)
 
 ## Authors
 

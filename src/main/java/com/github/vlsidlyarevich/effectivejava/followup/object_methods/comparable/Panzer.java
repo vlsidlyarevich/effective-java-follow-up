@@ -1,5 +1,7 @@
 package com.github.vlsidlyarevich.effectivejava.followup.object_methods.comparable;
 
+import java.util.Comparator;
+
 /**
  * Panzer
  *
@@ -7,6 +9,11 @@ package com.github.vlsidlyarevich.effectivejava.followup.object_methods.comparab
  * Created on 11/17/21.
  */
 public class Panzer implements Comparable<Panzer> {
+
+    private static final Comparator<Panzer> COMPARATOR =
+            Comparator.comparing(Panzer::getModel)
+                    .thenComparingInt(Panzer::getCrew)
+                    .thenComparingDouble(Panzer::getCannon);
 
     String model;
     Integer crew;
@@ -46,7 +53,6 @@ public class Panzer implements Comparable<Panzer> {
 
     @Override
     public int compareTo(final Panzer o) {
-        //TODO
-        return 0;
+        return COMPARATOR.compare(this, o);
     }
 }

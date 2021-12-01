@@ -13,8 +13,13 @@ Comparable interface is useful when you need:
 - use binary and other searches
 - using in ```SortedMap``` and ```SortedSet``` without any additionals
 
-But it has it's own contract which is kinda similar to ```equals()```:
+It has it's own contract which is kinda similar to ```equals()```:
+
+- ```x.compareTo(y) == -x.compareTo(x)``` for each ```x``` and ```y``` 
+- transitivity: ```x.compareTo(y) > 0 && y.compareTo(z) > 0``` then ```x.compareTo(z) > 0```
+- ```x.compareTo(y) == 0 && y.compareTo(z) == 0``` then ```x.compareTo(z) == 0```
+- *it is recommended* that ```(x.compareTo(y) == 0) == (x.equals(y))```
 
 **Tips and tricks**
-* ```Objects.hash(x, y, z...)``` can be used when speed is not so important
-* hash could be stored inside object if speed is crucial
+- Avoid ```< >```, use ```compare``` instead
+- Use nested comparators

@@ -41,6 +41,7 @@ Please, read book first!=)
 
 **Examples:**
 
+* [Make class visibility as less as possible](#src/main/java/com/github/vlsidlyarevich/effectivejava/followup/classes/visibility/README.MD)
 
 **Advices:**
 

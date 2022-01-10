@@ -10,13 +10,13 @@ Please, read book first!=)
 
 --- 
 
-### [Object creation/destruction](#src/main/java/com/github/vlsidlyarevich/effectivejava/followup/object_creation)
+### [Object creation/destruction](/tree/main/src/main/java/com/github/vlsidlyarevich/effectivejava/followup/object_creation)
 
 **Examples:**
 
-* [Use static factory method if needed](#src/main/java/com/github/vlsidlyarevich/effectivejava/followup/object_creation/sfm/README.MD)
-* [Use builder when multiple params](#src/main/java/com/github/vlsidlyarevich/effectivejava/followup/object_creation/builder/README.MD)
-* [Use try-with-resources instead of try-finally](#src/main/java/com/github/vlsidlyarevich/effectivejava/followup/object_creation/twr/README.MD)
+* [Use static factory method if needed](/tree/main/src/main/java/com/github/vlsidlyarevich/effectivejava/followup/object_creation/sfm/README.MD)
+* [Use builder when multiple params](/tree/main/src/main/java/com/github/vlsidlyarevich/effectivejava/followup/object_creation/builder/README.MD)
+* [Use try-with-resources instead of try-finally](/tree/main/src/main/java/com/github/vlsidlyarevich/effectivejava/followup/object_creation/twr/README.MD)
 
 **Advices:**
 
@@ -27,25 +27,26 @@ Please, read book first!=)
 - Avoid old object links
 - Avoid finalizers and cleaners
 
-### [Objects common methods](#src/main/java/com/github/vlsidlyarevich/effectivejava/followup/object_methods)
+### [Objects common methods](/tree/main/src/main/java/com/github/vlsidlyarevich/effectivejava/followup/object_methods)
 
 **Examples:**
 
-* [Override equals() properly](#src/main/java/com/github/vlsidlyarevich/effectivejava/followup/object_methods/equals/README.MD)
-* [Override hashcode() properly](#src/main/java/com/github/vlsidlyarevich/effectivejava/followup/object_methods/hashcode/README.MD)
-* [Always override toString()](#src/main/java/com/github/vlsidlyarevich/effectivejava/followup/object_methods/to_string/README.MD)
-* [Be careful with clone()](#src/main/java/com/github/vlsidlyarevich/effectivejava/followup/object_methods/clone/README.MD)
-* [Use Comparable](#src/main/java/com/github/vlsidlyarevich/effectivejava/followup/object_methods/comparable/README.MD)
+* [Override equals() properly](/tree/main/src/main/java/com/github/vlsidlyarevich/effectivejava/followup/object_methods/equals/README.MD)
+* [Override hashcode() properly](/tree/main/src/main/java/com/github/vlsidlyarevich/effectivejava/followup/object_methods/hashcode/README.MD)
+* [Always override toString()](/tree/main/src/main/java/com/github/vlsidlyarevich/effectivejava/followup/object_methods/to_string/README.MD)
+* [Be careful with clone()](/tree/main/src/main/java/com/github/vlsidlyarevich/effectivejava/followup/object_methods/clone/README.MD)
+* [Use Comparable](/tree/main/src/main/java/com/github/vlsidlyarevich/effectivejava/followup/object_methods/comparable/README.MD)
 
-### [Classes and interfaces](#src/main/java/com/github/vlsidlyarevich/effectivejava/followup/classes)
+### [Classes and interfaces](/tree/main/src/main/java/com/github/vlsidlyarevich/effectivejava/followup/classes)
 
 **Examples:**
 
-* [Make class visibility as less as possible](#src/main/java/com/github/vlsidlyarevich/effectivejava/followup/classes/visibility/README.MD)
-* [Use access methods](#src/main/java/com/github/vlsidlyarevich/effectivejava/followup/classes/methods/README.MD)
-* [Design immutable classes](#src/main/java/com/github/vlsidlyarevich/effectivejava/followup/classes/immutability/README.MD)
+* [Make class visibility as less as possible](/tree/main/src/main/java/com/github/vlsidlyarevich/effectivejava/followup/classes/visibility/README.MD)
+* [Use access methods](/tree/main/src/main/java/com/github/vlsidlyarevich/effectivejava/followup/classes/methods/README.MD)
+* [Design immutable classes](/tree/main/src/main/java/com/github/vlsidlyarevich/effectivejava/followup/classes/immutability/README.MD)
 
 **Advices:**
+
 
 
 ---

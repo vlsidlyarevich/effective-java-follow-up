@@ -1,11 +1,14 @@
-## Object creation/destruction
-
 ### Builder method
+
+---
+
+* [Back to table of contents]()
+* [Examples](Main.java)
+
+---
 
 Useful when 3+ params for object creation exist.
 Building of difficult objects can be made in stages.
-
-[Examples](Main.java)
 
 Pros:
 * Object creation can be made in stages

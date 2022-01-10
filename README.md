@@ -10,7 +10,7 @@ Please, read book first!=)
 
 --- 
 
-### [Object creation/destruction](/tree/main/src/main/java/com/github/vlsidlyarevich/effectivejava/followup/object_creation)
+### [Object creation/destruction](src/main/java/com/github/vlsidlyarevich/effectivejava/followup/object_creation)
 
 **Examples:**
 

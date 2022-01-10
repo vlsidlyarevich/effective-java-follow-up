@@ -42,6 +42,8 @@ Please, read book first!=)
 **Examples:**
 
 * [Make class visibility as less as possible](#src/main/java/com/github/vlsidlyarevich/effectivejava/followup/classes/visibility/README.MD)
+* [Use access methods](#src/main/java/com/github/vlsidlyarevich/effectivejava/followup/classes/methods/README.MD)
+* [Design immutable classes](#src/main/java/com/github/vlsidlyarevich/effectivejava/followup/classes/immutability/README.MD)
 
 **Advices:**
 

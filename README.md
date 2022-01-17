@@ -43,9 +43,12 @@ Please, read book first!=)
 * [Make class visibility as less as possible](src/main/java/com/github/vlsidlyarevich/effectivejava/followup/classes/visibility/README.MD)
 * [Use access methods](src/main/java/com/github/vlsidlyarevich/effectivejava/followup/classes/methods/README.MD)
 * [Design immutable classes](src/main/java/com/github/vlsidlyarevich/effectivejava/followup/classes/immutability/README.MD)
+* [Use composition over inheritance](src/main/java/com/github/vlsidlyarevich/effectivejava/followup/classes/composition/README.MD)
+* [Use documented classes when inheritance needed](src/main/java/com/github/vlsidlyarevich/effectivejava/followup/classes/documented_inheritance/README.MD)
 
 **Advices:**
 
+- Docum 
 
 
 ---

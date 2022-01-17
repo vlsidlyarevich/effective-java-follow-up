@@ -10,9 +10,9 @@
 Useful when 3+ params for object creation exist.
 Building of difficult objects can be made in stages.
 
-Pros:
+<b>Pros:</b>
 * Object creation can be made in stages
 * Object is always in consistent state
 
-Cons: 
+<b>Cons:</b> 
 * Builder should be created first

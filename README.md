@@ -48,7 +48,11 @@ Please, read book first!=)
 
 **Advices:**
 
-- Docum 
+- Use interfaces instead abstract classes
+- Use default methods for backward compatibility
+- Use interfaces for creation types only (don't use as constant holders etc.)
+- Use class hierarchy over descriptor classes
+
 
 
 ---

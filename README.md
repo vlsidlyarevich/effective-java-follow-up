@@ -52,6 +52,8 @@ Please, read book first!=)
 - Use default methods for backward compatibility
 - Use interfaces for creation types only (don't use as constant holders etc.)
 - Use class hierarchy over descriptor classes
+- Use static inner classes instead of non-static ones
+- Always have 1 top-level class in file
 
 
 

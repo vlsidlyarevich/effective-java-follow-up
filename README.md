@@ -55,6 +55,16 @@ Please, read book first!=)
 - Use static inner classes instead of non-static ones
 - Always have 1 top-level class in file
 
+### [Generics](src/main/java/com/github/vlsidlyarevich/effectivejava/followup/generics)
+
+**Examples:**
+
+* [Avoid Raw types](src/main/java/com/github/vlsidlyarevich/effectivejava/followup/generics/raw/README.MD)
+* [Fix all compiler issues](src/main/java/com/github/vlsidlyarevich/effectivejava/followup/generics/notifications/README.MD)
+
+**Advices:**
+
+-
 
 
 ---

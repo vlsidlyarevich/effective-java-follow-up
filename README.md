@@ -62,14 +62,14 @@ Please, read book first!=)
 * [Avoid Raw types](src/main/java/com/github/vlsidlyarevich/effectivejava/followup/generics/raw/README.MD)
 * [Fix all compiler issues](src/main/java/com/github/vlsidlyarevich/effectivejava/followup/generics/notifications/README.MD)
 * [Use lists instead of arrays](src/main/java/com/github/vlsidlyarevich/effectivejava/followup/generics/arrays/README.MD)
-
+* [Always use @SafeVarargs](src/main/java/com/github/vlsidlyarevich/effectivejava/followup/generics/varargs/README.MD)
 
 **Advices:**
 
 - Generics are better than class cast
 - Generic methods are useful and better than class cast
 - Remember **PECS** - producer extends, consumer super
-- 
+
 
 ---
 

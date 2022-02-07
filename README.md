@@ -70,6 +70,15 @@ Please, read book first!=)
 - Generic methods are useful and better than class cast
 - Remember **PECS** - producer extends, consumer super
 
+### [Enumerations and annotations](src/main/java/com/github/vlsidlyarevich/effectivejava/followup/enumerations)
+
+**Examples:**
+
+*
+
+**Advices:**
+
+- Prefer enumerations to int constants
 
 ---
 

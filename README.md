@@ -74,11 +74,13 @@ Please, read book first!=)
 
 **Examples:**
 
-*
+* [Use EnumSet instead bit maps](src/main/java/com/github/vlsidlyarevich/effectivejava/followup/enumerations/enumset/README.MD)
+* [Use EnumMap](src/main/java/com/github/vlsidlyarevich/effectivejava/followup/enumerations/enummap/README.MD)
 
 **Advices:**
 
 - Prefer enumerations to int constants
+- Always use fields instead of ```ordinal```
 
 ---
 

@@ -81,6 +81,10 @@ Please, read book first!=)
 
 - Prefer enumerations to int constants
 - Always use fields instead of ```ordinal```
+- Use interfaces when need to extend enums
+- Prefer annotations over naming conventions
+- Always use ```@Override```
+
 
 ---
 

@@ -88,6 +88,18 @@ Please, read book first!=)
 
 ---
 
+### [Lambdas and threads](src/main/java/com/github/vlsidlyarevich/effectivejava/followup/lambdas)
+
+**Examples:**
+
+* 
+
+**Advices:**
+
+- 
+
+---
+
 ## Authors
 
 **Vladislav Sidlyarevich** - [Github profile](https://github.com/vlsidlyarevich)

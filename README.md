@@ -76,6 +76,7 @@ Please, read book first!=)
 
 * [Use EnumSet instead bit maps](src/main/java/com/github/vlsidlyarevich/effectivejava/followup/enumerations/enumset/README.MD)
 * [Use EnumMap](src/main/java/com/github/vlsidlyarevich/effectivejava/followup/enumerations/enummap/README.MD)
+* [Use marker interfaces for type check](src/main/java/com/github/vlsidlyarevich/effectivejava/followup/enumerations/markers/README.MD)
 
 **Advices:**
 
@@ -84,7 +85,6 @@ Please, read book first!=)
 - Use interfaces when need to extend enums
 - Prefer annotations over naming conventions
 - Always use ```@Override```
-
 
 ---
 

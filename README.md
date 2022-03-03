@@ -92,11 +92,14 @@ Please, read book first!=)
 
 **Examples:**
 
-* 
+* [Use parallel streams carefully](src/main/java/com/github/vlsidlyarevich/effectivejava/followup/lambdas/parallel/README.MD)
 
 **Advices:**
 
-- 
+- Prefer lambdas to anonymous classes
+- Use method references if needed (shorter and easier to understand)
+- Reuse standard functional interfaces
+- Return collections, not streams
 
 ---
 

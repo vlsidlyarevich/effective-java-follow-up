@@ -86,8 +86,6 @@ Please, read book first!=)
 - Prefer annotations over naming conventions
 - Always use ```@Override```
 
----
-
 ### [Lambdas and threads](src/main/java/com/github/vlsidlyarevich/effectivejava/followup/lambdas)
 
 **Examples:**
@@ -100,6 +98,17 @@ Please, read book first!=)
 - Use method references if needed (shorter and easier to understand)
 - Reuse standard functional interfaces
 - Return collections, not streams
+
+### [Methods](src/main/java/com/github/vlsidlyarevich/effectivejava/followup/methods)
+
+**Examples:**
+
+* [Validate input params](src/main/java/com/github/vlsidlyarevich/effectivejava/followup/methods/validation/README.MD)
+
+**Advices:**
+
+- 
+
 
 ---
 
